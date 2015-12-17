@@ -12,4 +12,7 @@
 - [橋本商会 » 色々なPromiseライブラリで1つずつ順番に処理する](http://shokai.org/blog/archives/9350)
 - es6-promiseとbluebirdとQは混ぜてthen/catchでチェインさせても大丈夫
 
+## Install Dependencies
 
+    % npm i
+    % npm i coffee-script -g
